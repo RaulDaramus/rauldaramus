@@ -2,6 +2,8 @@
 
 My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Science and Software Engineering 💻 at Universidad de Zaragoza.
 
+- 🔭 I’m currently interested in Backend, DevOps, SysAdmin, App Development, Developing Projects and Entreprenurship.
+
 ## I have learned or worked in:
 ### Industry
 * Web Development 
