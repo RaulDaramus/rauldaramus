@@ -2,7 +2,7 @@
 
 My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Science and Software Engineering 💻 at Universidad de Zaragoza.
 
-## I have learned:
+## I have learned and work in:
 ### Industry
 * Web Development 
 * Software Development
