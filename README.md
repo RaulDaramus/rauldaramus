@@ -32,7 +32,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 * Flex
 
 ## Contact
-👉🏻 All of my socials and resume: [links](https://rauldaramus.bio.link)
+👉🏻 All of my socials and resume: [My links](https://rauldaramus.bio.link)
 
 ☕️ Wanna take a coffee?: [rauldaramusraica@icloud.com](mailto:rauldaramusraica@icloud.com)
 
