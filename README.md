@@ -1,10 +1,10 @@
 ### Hola! 👋
 
-Hello my name is Raúl, I'm from Spain and I'm currently studying Computer Science and Software Engineering at Universidad de Zaragoza.
+My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Science and Software Engineering 💻 at Universidad de Zaragoza.
 
 ## I have learned:
 ### Industry
-* Web Development
+* Web Development 
 * Software Development
 * UX & UI Design
 * Linux Systems Administration
