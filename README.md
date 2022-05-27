@@ -12,10 +12,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
   <a href="https://twitter.com/rauldaramus">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://rauldaramus.com/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/-My%20Links-lightgrey"/>
-  </a>
-  </a>
 </div>
 
 <!--
