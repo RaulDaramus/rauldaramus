@@ -5,33 +5,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 🔭 I’m currently interested in Backend, DevOps, SysAdmin, App Development, Distributed Computing, Cloud and developing projects.
 
 ## I have learned or worked in:
-### Industry
-* Web Development 
-* Software Development
-* UX & UI Design
-* Linux Systems Administration
-* Data Structures & Algorithms
-* Functional Programming
 
-### Programming Languages & Other Languages
-* C++ / C
-* Java
-* Python
-* Haskell
-* SQL
-* Assambly Language
-* HTML / CSS
-* LaTex
-
-### Technologys
-* Docker
-* MySQL
-* PostgreSQL
-* Oracle Database
-* Git
-* Linux
-* Bison
-* Flex
 
 ## Contact
 <div id="badges" align="center">
