@@ -12,11 +12,10 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
   <a href="https://twitter.com/rauldaramus">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="[https://twitter.com/rauldaramus](https://rauldaramus.bio.link)">
+    <img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/-My%20Links-lightgrey)" alt="links Badge"/>
+  </a>
 </div>
-
-👉🏻 [My links](https://rauldaramus.bio.link)
-
-☕️ Wanna take a coffee?: [rauldaramusraica@icloud.com](mailto:rauldaramusraica@icloud.com)
 
 <!--
 **RaulDaramus/rauldaramus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
