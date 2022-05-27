@@ -13,7 +13,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-👉🏻 [My links](https://rauldaramus.bio.link)
+👉🏻 [My links] (https://rauldaramus.bio.link)
 
 ☕️ Wanna take a coffee?: [rauldaramusraica@icloud.com](mailto:rauldaramusraica@icloud.com)
 
