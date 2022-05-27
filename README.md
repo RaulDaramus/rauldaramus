@@ -2,7 +2,7 @@
 
 My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Science and Software Engineering 💻 at Universidad de Zaragoza.
 
-- 🔭 I’m currently interested in Backend, DevOps, SysAdmin, App Development, Distributed Computing, Cloud and developing projects.
+🔭 I’m currently interested in Backend, DevOps, SysAdmin, App Development, Distributed Computing, Cloud and developing projects.
 
 ## I have learned or worked in:
 ### Industry
