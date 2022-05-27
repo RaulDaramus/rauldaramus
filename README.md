@@ -4,9 +4,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 
 🔭 I’m currently interested in Backend, DevOps, SysAdmin, App Development, Distributed Computing, Cloud and developing projects.
 
-## I have learned or worked in:
-
-
 ## Contact
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rauldaramus" target="_blank">
