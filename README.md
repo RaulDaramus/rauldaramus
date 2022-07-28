@@ -31,6 +31,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 
 * Docker
 * Git [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+* Git [![git](https://img.shields.io/badge/gitSQL-005C84?style=for-the-badge&logo=git&logoColor=white)
 * Linux
 
 # Contact
