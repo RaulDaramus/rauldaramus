@@ -28,6 +28,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox]https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
 
 # Contact
 <div id="badges" align="center">
