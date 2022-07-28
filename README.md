@@ -27,8 +27,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
-![RaulDaramus's Github stats](https://github-readme-stats.vercel.app/api?username=RaulDaramus&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulDaramus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # Contact
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rauldaramus" target="_blank">
