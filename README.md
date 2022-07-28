@@ -30,6 +30,9 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 ![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
+
+### Stats:
+https://github-readme-stats.vercel.app/api/top-langs/?username={rauldaramus}
 # Contact
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rauldaramus" target="_blank">
