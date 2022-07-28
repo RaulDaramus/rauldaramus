@@ -32,9 +32,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 * Docker
 * Git
 * Linux
-* Bison
-* Flex
-![CSS]https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
 # Contact
 <div id="badges" align="center">
