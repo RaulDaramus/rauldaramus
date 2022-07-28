@@ -30,7 +30,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 ### Technologies:
 
 * Docker
-* Git
+* Git [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 * Linux
 
 # Contact
