@@ -32,7 +32,7 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 
 
 ### Stats:
-[https://github-readme-stats.vercel.app/api/top-langs/?username={RaulDaramus}](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
+[https://github-readme-stats.vercel.app/api/top-langs/?username={RaulDaramus}](https://github-readme-stats.vercel.app/api/top-langs/?username={RauDaramus})
 # Contact
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rauldaramus" target="_blank">
