@@ -4,10 +4,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 
 🔭 In the tech side I’m currently interested in Backend, DevOps, App Development, Distributed Computing and Cloud.
 
-
-
-# Technologies
-
 ## I have worked with
 
 ### Languages:
