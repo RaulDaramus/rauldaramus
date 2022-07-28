@@ -31,9 +31,6 @@ My name is Raúl, I'm from Spain 🇪🇸 and I'm currently studying Computer Sc
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 
-### Stats:
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
-
 
 # Contact
 <div id="badges" align="center">
